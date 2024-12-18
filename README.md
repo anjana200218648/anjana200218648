@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Leaning new technologies**
 
-- 📝 I regularly write articles on [[(https://www.linkedin.com/in/h-h-h-anjana-62bb18254/)](https://warm-pika-20e450hashan-anjana.netlify.app/)]
+- 📝 I regularly write articles on [(https://warm-pika-20e450hashan-anjana.netlify.app/)]
 
 - 💬 Ask me about **HTML,CSS,JS,SQL,Wordpress,React,Redux,kotlin,ReactNative,Talwind CSS,java,python**
 
